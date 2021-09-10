@@ -467,6 +467,7 @@ nlu:
     - stop it, i do not care!!!
     - none of them
     - I don't agree
+    - i disagree
 - intent: explain
   examples: |
     - can you elaborate
